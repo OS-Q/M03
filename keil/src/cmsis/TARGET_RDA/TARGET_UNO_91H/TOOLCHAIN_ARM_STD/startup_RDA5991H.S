@@ -73,7 +73,7 @@ Reset_Handler   PROC
                 EXPORT  Reset_Handler             [WEAK]
                 ;IMPORT  rda_ccfg_boot
                 IMPORT  SystemInit1
-                IMPORT  main1
+                IMPORT  main
                 LDR     R0, =|Image$$ARM_LIB_STACK$$ZI$$Limit|
                 MSR     MSP, R0
                 ;LDR     R0, =rda_ccfg_boot
@@ -82,7 +82,7 @@ Reset_Handler   PROC
                 ;BNE     Soft_Reset	
                 LDR     R0, =SystemInit1
                 BLX     R0
-                LDR     R0, =main1
+                LDR     R0, =main
                 BX      R0
                 ENDP
 

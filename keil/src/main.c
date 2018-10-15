@@ -12,7 +12,7 @@ int rda_ccfg_boot1(void)
 	return 1;
 }
 
-void main1(void)
+void main(void)
 {
 		//--------------------------------------------------
 		//´®¿Ú
