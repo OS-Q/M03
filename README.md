@@ -1,22 +1,21 @@
-﻿[![sites](qitas/Qi.png)](http://www.qitas.cn)
+﻿# [WIFI SOC](https://github.com/qitas/WIFI) 
 
-# RDA
+#### qitas@qitas.cn
 
-### 项目描述
+## [描述](https://github.com/qitas/WIFI/wiki) 
 
-RDA相关工程和代码
+## [平台&资源](qitas/)
 
----
+### [RDA方案](RDA/)
 
-## 组成
+#### [RDA5981](RDA/RDA5981/) 
 
 
 
----
-## 说明
 
-2018-10-14: 创建该仓库
 
 ---
-## 为锻造最美之器
+
+### 锻造最美之器
+
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
