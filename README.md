@@ -1,20 +1,10 @@
-﻿# [WIFI SOC](https://github.com/qitas/WIFI) 
+﻿# [Wi-Fi](https://github.com/qitas/WIFI) 
 
 #### qitas@qitas.cn
 
-## [描述](https://github.com/qitas/WIFI/wiki) 
+## [工程描述](https://github.com/qitas/WIFI/wiki) 
 
-## [平台&资源](qitas/)
-
-### [RDA方案](RDA/)
-
-#### [RDA5981](RDA/RDA5981/) 
-
-
-
-
----
-
-### 锻造最美之器
+[Wi-Fi](https://github.com/qitas/WIFI) 是创建于IEEE 802.11标准的无线局域网技术，
 
 [![sites](qitas/qitas.png)](http://www.qitas.cn)
+## 锻造最美之器
