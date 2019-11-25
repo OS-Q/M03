@@ -1,10 +1,7 @@
-﻿# [Wi-Fi](https://github.com/qitas/WIFI) 
+﻿# [inoIDE](https://github.com/qitas/inoIDE) 
 
-#### qitas@qitas.cn
+本工程用于构建&配置[arduino](https://github.com/arduino)开发环境
 
-## [工程描述](https://github.com/qitas/WIFI/wiki) 
+[![sites](http://182.61.61.133/link/resources/head.png)](http://www.qitas.cn) 
 
-[Wi-Fi](https://github.com/qitas/WIFI) 是创建于IEEE 802.11标准的无线局域网技术，
-
-[![sites](qitas/qitas.png)](http://www.qitas.cn)
 ## 锻造最美之器
