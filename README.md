@@ -4,7 +4,7 @@
 
 ### [简介](https://github.com/OS-Q/M02/wiki)
 
-[libopencm3](https://github.com/zlgopen/ametal) 是芯片级的裸机软件包，定义了跨平台的通用接口
+[libopencm3](https://github.com/libopencm3/libopencm3)  aims to create an open-source firmware library for various ARM Cortex-M microcontrollers.
 
 #### [工程拓扑](https://github.com/OS-Q)
 
