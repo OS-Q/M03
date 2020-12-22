@@ -1,0 +1,6 @@
+{
+    "name":"libopencm3",
+    "type":"Bare Metal",
+    "url":"https://github.com/OS-Q/M03",
+    "version":"1.0.0"
+}
