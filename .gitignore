@@ -1,3 +1,4 @@
-*.pyc
-.pio/
-.vscode/
+*.pio/
+*.vscode/
+*.map
+*.DS_Store
